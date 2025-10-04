@@ -62,7 +62,7 @@ java Main
 
 ---
 
-## 📸 Sample Output
+## 💁🏻‍♀️📸 Sample Output
 
 ```
 ====== Employee Management System ======
@@ -71,16 +71,18 @@ java Main
 3. Update Employee
 4. Delete Employee
 5. Exit
-Enter your choice:
+Choose an option: 1
+Enter Employee ID: 101
+Enter Employee Name: sutapa
+Enter Department: CSE
+Enter Salary:65000 
+
+✅ Employee added successfully!
+
 ```
 
----
-## Output
 
-<img width="386" height="433" alt="Screenshot 2025-09-11 115751" src="https://github.com/user-attachments/assets/9486b01b-1142-4fd7-99ac-40d5d8bcebe3" />
-
-
-## 📖 Learning Outcomes
+## 📚📖 Learning Outcomes
 
 * Understanding OOP principles in a real-world project
 * Using data structures to manage records
