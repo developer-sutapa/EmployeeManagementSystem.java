@@ -1,4 +1,4 @@
-# Employee Management System
+# ![Uploading EmployeeAppreciationTheecardsGIF.gif…]()Employee Management System
 
 ## 📌 Overview
 
@@ -65,22 +65,28 @@ java Main
 ## 💁🏻‍♀️📸 Sample Output
 
 ```
-====== Employee Management System ======
-1. Add Employee
-2. View Employees
-3. Update Employee
-4. Delete Employee
-5. Exit
-Choose an option: 1
-Enter Employee ID: 101
-Enter Employee Name: sutapa
-Enter Department: CSE
-Enter Salary:65000 
 
-✅ Employee added successfully!
+Below is a screenshot of the program running in the terminal:  
 
+![Employee Management System - Sample Output](./Screenshot%202025-10-04%20224623.png)
+
+### Explanation:
+- The user selects option `1` to **Add Employee**  
+  - Enters Employee ID: `101`  
+  - Name: `Reba`  
+  - Department: `CSE`  
+  - Salary: `65000`  
+  - System confirms: *"Employee added successfully!"*  
+
+- Next, the user selects option `3` to **Update Employee**  
+  - Updates Employee ID `101` → Name changed to `Zia`  
+  - Department remains `CSE`  
+  - Salary updated to `60000`  
+  - System confirms: *"Employee details updated successfully!"*
+    
 ```
 
+---
 
 ## 📚📖 Learning Outcomes
 
